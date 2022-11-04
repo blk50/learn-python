@@ -1,2 +1,2 @@
 # learn-python
-me learing python
+me learning python
